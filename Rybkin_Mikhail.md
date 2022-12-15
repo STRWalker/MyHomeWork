@@ -50,14 +50,14 @@
 
 ## Работа с удалёнными репозиториями
 
-* *GitHub.com Fork* - 
+* *GitHub.com Fork* - на GitHub делаем Fork интересующего репозитория, т.е. свою копию, но привязанную к исходному.
 
-* *git clone url_repository* - 
+* *git clone url_repository* - копирует удалённый репозиторий в локальную директорию и синхронизирует их.
 
-* *git remote add origin url_repository* - 
+* *git remote add origin url_repository* - синхронизирует локальный репозиторий с удалённым, если не делали *git clone*.
 
-* *git push -u origin branch_name* - 
+* *git push -u origin branch_name* - отправляет изменения локального репозитория на удалённый. В дальнейшем можно использовать просто *git push*.
 
-* *git pull* - 
+* *git pull* - подтягивает изменения с удалённого репозитория в локальный.
 
-* *GitHub.com Contribute* - 
+* *GitHub.com Contribute* - на GitHub создаём Pull request требуемой ветки на слияние с другой веткой/репозиторием.
