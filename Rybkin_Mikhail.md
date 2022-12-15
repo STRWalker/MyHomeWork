@@ -1,5 +1,4 @@
-# Git education. Second seminar.
-**11.12.2022**
+# Git education. Third seminar.
 
 ## Инициализация Git и первые команды
 
@@ -48,3 +47,17 @@
 * Конфликты при слиянии веток возникают, когда коммиты в этих ветках претендуют на общую область.
 
 * Пользователь должен зафиксировать разрешение конфликта коммитом, только тогда он будет считается разрешёным.
+
+## Работа с удалёнными репозиториями
+
+* *GitHub.com Fork* - 
+
+* *git clone url_repository* - 
+
+* *git remote add origin url_repository* - 
+
+* *git push -u origin branch_name* - 
+
+* *git pull* - 
+
+* *GitHub.com Contribute* - 
